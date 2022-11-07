@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.able{
+
+    border: 1px solid #839278;
+    border-radius: 20px;
+    height: 39.167vw;
+
+}
+
+.head{
+    color: #839278;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 130%;
+}
+
+.line {
+    border-bottom: 1px solid #B0B0B0;;
+}
+
+.head-text{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 130%;
+
+    color: #839278;
+}
+
+.inp input{
+
+    height: 40px;
+    left: 333px;
+    top: 352px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    border: 1px solid #839278;
+    border-radius: 10px;
+}
+.inp{
+    width: auto;
+}
